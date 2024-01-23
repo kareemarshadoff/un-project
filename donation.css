@@ -1,0 +1,39 @@
+/* Donation.css */
+
+.donation-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .donation-heading {
+    text-align: center;
+  }
+  
+  .donation-text {
+    text-align: center;
+  }
+  
+  .form-label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 8px;
+  }
+  
+  .form-button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

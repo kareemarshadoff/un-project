@@ -1,0 +1,43 @@
+/* RenewableEnergyProviders.css */
+.renewable-energy-providers {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    
+    
+  }
+  
+  .provider-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .provider-name {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .provider-description {
+    color: #666;
+  }
+  
+  .provider-link {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .provider-link:hover {
+    text-decoration: underline;
+  }
+  /* body{
+    background-image: url('https://www.tynker.com/image/hour-of-code/2019/affordable-and-clean-energy/affordable-and-clean-energy-screenshot1.png?width=740&height=410&mode=contain&format=jpg&quality=75&cache=max&v=1');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  } */

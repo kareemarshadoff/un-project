@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.headder-p{
+    width: 85rem;
+    margin-left: 70px;
+   
+}
+.headder-h{
+font-size: 50px;
+padding-top: 2em;
+
+}
+.header{
+    background-color: rgb(184, 216, 244);
+    background-size: cover;
+    height: 20em;
+}
+.head2{
+    width: 100em;
+    padding-left: 10em;
+    padding-top: 10em;
+}
+.carddiv{
+    width: 40em;
+    padding: 8em;
+    
+}
+.carddiv h5{
+    font-size: 30px;
+}
+.carddiv p{
+    font-size: 20px;
+}
+.card2{
+    box-shadow: 10px 10px 30px black;
+}
+.bottomdiv{
+    padding: 7em;
+    text-align: left;
+    box-shadow: 10px 10px 50px rgb(210, 209, 209);
+
+}
+.bottom-main{
+    background-color: rgb(243, 240, 240);
+}
+.lastcnt{
+    padding: 7em;
+    text-align: left;
+    box-shadow: 10px 10px 50px rgb(236, 236, 236);
+}
